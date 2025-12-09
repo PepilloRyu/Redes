@@ -14,15 +14,16 @@ Aprender a conectar dispositivos del mismo tipo usando un cable Crossover
    ![alt text](Imagenes/image-7.png)
 
 3. Selecciona el cable **Copper Crossover**.
-    ![alt text](Imagenes/image-1.png)
 
-4. Conecta:
+   ![alt text](Imagenes/image-1.png)
+
+5. Conecta:
    - PC0 FastEthernet0 → PC1 FastEthernet0  
 
    ![alt text](Imagenes/image-2.png)
    
 
-5. Configuración de la PC0
+6. Configuración de la PC0
 - IP: `192.168.2.10`  
 - Máscara: `255.255.255.0`
 
