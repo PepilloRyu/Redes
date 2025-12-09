@@ -10,25 +10,29 @@ Aprender a conectar dispositivos del mismo tipo usando un cable Crossover
 ## Pasos
 
 1. Arrastra dos PC al área de trabajo.  
+
    ![alt text](Imagenes/image.png)
 
-2. Selecciona el cable **Copper Crossover**.
+3. Selecciona el cable **Copper Crossover**.
     ![alt text](Imagenes/image-1.png)
 
-3. Conecta:
+4. Conecta:
    - PC0 FastEthernet0 → PC1 FastEthernet0  
-    ![alt text](Imagenes/image-2.png)
+
+   ![alt text](Imagenes/image-2.png)
    
 
-4. Configuración de la PC0
+5. Configuración de la PC0
 - IP: `192.168.2.10`  
 - Máscara: `255.255.255.0`
-    ![alt text](Imagenes/image-3.png)
+
+     ![alt text](Imagenes/image-3.png)
 
 5. Configuración de la PC1
 - IP: `192.168.2.20`  
 - Máscara: `255.255.255.0`
-    ![alt text](Imagenes/image-4.png)
+
+     ![alt text](Imagenes/image-4.png)
 
 6. Verifica conectividad:
 
@@ -36,16 +40,19 @@ Desde PC0:
 ```bash
 ping 192.168.2.20
 ```
+
 ![alt text](Imagenes/image-5.png)
 
 Desde PC1:
 ```bash
 ping 192.168.2.10
 ```
+
 ![alt text](Imagenes/image-6.png)
 
 ## Resultado
 Ambas PCs deben poder hacerse ping entre sí usando un cable crossover.
+
 ![alt text](Imagenes/image-resultado.png)
 
 
