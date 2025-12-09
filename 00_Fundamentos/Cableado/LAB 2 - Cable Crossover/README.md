@@ -24,14 +24,14 @@ Aprender a conectar dispositivos del mismo tipo usando un cable Crossover
    
 
 6. Configuración de la PC0
-- IP: `192.168.2.10`  
-- Máscara: `255.255.255.0`
+- IP: 192.168.2.10  
+- Máscara: 255.255.255.0
 
      ![alt text](Imagenes/image-3.png)
 
 5. Configuración de la PC1
-- IP: `192.168.2.20`  
-- Máscara: `255.255.255.0`
+- IP: 192.168.2.20  
+- Máscara: 255.255.255.0
 
      ![alt text](Imagenes/image-4.png)
 
