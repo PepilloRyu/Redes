@@ -11,7 +11,7 @@ Aprender a conectar dispositivos del mismo tipo usando un cable Crossover
 
 1. Arrastra dos PC al área de trabajo.  
 
-   ![alt text](Imagenes/image.png)
+   ![alt text](Imagenes/image-7.png)
 
 3. Selecciona el cable **Copper Crossover**.
     ![alt text](Imagenes/image-1.png)
