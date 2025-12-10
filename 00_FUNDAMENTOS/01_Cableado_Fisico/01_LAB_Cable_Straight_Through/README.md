@@ -10,11 +10,13 @@
 
 ## Pasos
 1. Arrastra una PC y un Switch 2960.
+
 ![alt text](Imagenes/00_01_01_02.png)
 
 2. Usa un cable Copper Straight-Through.
 
 3. Conecta la PC FastEthernet0 al Switch FastEthernet0/1
+
 ![alt text](Imagenes/00_01_01_03.png)
 
 1. Configuración de la PC : 
@@ -34,3 +36,4 @@
 
 
 ![alt text](Imagenes/00_01_01_06.png)
+
