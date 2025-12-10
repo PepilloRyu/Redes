@@ -13,7 +13,7 @@
     ![alt text](Imagenes/00_01_03_01.png)
 
 2. Ingresamos a Physical del Router 0, apagamos el dispositivo y agregamos el modulo de HWIC-1GE-SFP, junto con el modulo de GLC-LH-SMD y prendemos el dispositivo, igualmente se hace lo mismo en el Router 1.
-    ![alt text](Imagenes/image.png)
+    ![alt text](Imagenes/00_01_03_02.png)
 
 3. Usar la conexion Fiber para hacer la conexion entre los 2 routers, en los puertos Gig0/1/0
     ![alt text](Imagenes/00_01_03_03.png)
@@ -40,4 +40,5 @@
     - write memory
   
 ## Resultados
+
 ![alt text](Imagenes/00_01_03_05.png)
