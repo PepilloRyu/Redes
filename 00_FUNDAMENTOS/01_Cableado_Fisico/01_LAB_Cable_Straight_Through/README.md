@@ -22,7 +22,6 @@
 1. Configuración de la PC : 
     - IP : 192.168.1.10 
     - Máscara : 255.255.255.0
-    ![alt text](Imagenes/00_01_01_04.png)
 
 2. Configuración del Switch (en CLI):
     - enable
@@ -36,4 +35,5 @@
 
 
 ![alt text](Imagenes/00_01_01_06.png)
+
 
