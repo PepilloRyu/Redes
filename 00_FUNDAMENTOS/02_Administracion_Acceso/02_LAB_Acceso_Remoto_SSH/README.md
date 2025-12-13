@@ -85,6 +85,7 @@ Un tamaño de clave de 1024 o 2048 bits se recomienda por seguridad.
 
 - ssh -l admin 192.168.1.1
 - Contraseña : adminpass
+
     ![alt text](Imagenes/00_02_02_03.png)
 
 
@@ -105,3 +106,4 @@ Un tamaño de clave de 1024 o 2048 bits se recomienda por seguridad.
 - Resultado Esperado: Debes ver que la versión de SSH está activada
 
     ![alt text](Imagenes/00_02_02_05.png)
+
