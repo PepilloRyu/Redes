@@ -10,6 +10,7 @@ Respaldar (back up) la configuración a un servidor externo (TFTP Server) como u
 
 ## Topología
 
+![alt text](Imagenes/00_02_03_07.png)
 
 
 ## Pasos
